@@ -1,5 +1,6 @@
 
 import Button from "./components/ui/button"
+import { QrCode } from "./Qrcode"
 
 function App() {
   
@@ -7,6 +8,7 @@ function App() {
   return (
     <>
     <Button>hello</Button>
+    <QrCode />
 
       
     </>
