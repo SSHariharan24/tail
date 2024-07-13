@@ -1,14 +1,15 @@
 
+
 import Button from "./components/ui/button"
-import { QrCode } from "./Qrcode"
+import Home from "./Home.jsx"
 
 function App() {
   
 
   return (
     <>
-    <Button>hello</Button>
-    <QrCode />
+    <Home />
+    
 
       
     </>
